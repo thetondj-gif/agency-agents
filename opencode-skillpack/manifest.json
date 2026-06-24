@@ -1,0 +1,30 @@
+{
+  "name": "opencode-deus-intus-skillpack",
+  "version": "1.0.0",
+  "owner": "thetondj-gif",
+  "description": "Portable OpenCode/OpenClaw-style agents and skills for Deus Intus, design, content, automation, repo auditing, local model setup and AI app prototyping.",
+  "safety_level": "review-before-execution",
+  "skills": [
+    "deus-intus-brand-system",
+    "product-photography-mockups",
+    "social-content-engine",
+    "repo-auditor",
+    "local-model-provider-setup",
+    "comfyui-image-video",
+    "automation-builder",
+    "affiliate-review-engine"
+  ],
+  "agents": [
+    "brand-director",
+    "visual-director",
+    "content-engine",
+    "growth-architect",
+    "devops-integrator",
+    "security-reviewer"
+  ],
+  "install": {
+    "manual": "Copy skills/* into your OpenCode/OpenClaw skills directory.",
+    "script": "bash opencode-skillpack/install.sh"
+  },
+  "default_instruction": "Read AGENTS.md first. Load only the relevant skill for the current task. Follow SECURITY.md before installing third-party code or running shell commands."
+}
