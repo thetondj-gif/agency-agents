@@ -1,6 +1,6 @@
 # AGENTS.md — Agency Agents
 
-Before estate-wide work, read Google Drive `AI BUSINESS COMPILER/README_START_HERE.md` (`1VzZD80TCf9WwU27TjBGW_f3SnDBdDdKZ`) and `00_CANONICAL_ARCHITECTURE/AGENT_START_HERE_V1.md` (`1tbRd_QuQH0_tPcPVuLs_xiK1pLI6PkSF`).
+Before estate-wide work, read Google Drive `AI BUSINESS COMPILER/README_START_HERE` (`17WIrwqwC1z8MBzotqVO1n-sHDCFkFBL_Wk6CcHT8GkI`) and `00_CANONICAL_ARCHITECTURE/AGENT_START_HERE_CURRENT` (`1V4TQ4c5eAD-R-ZEqHDz0cS6wJfb5urWshhmrUaPGuDk`).
 
 ## Estate role
 Reusable agent/persona/workforce-definition inventory for Foundry OS and Machine Factory.
