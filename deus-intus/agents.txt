@@ -1,0 +1,10 @@
+# Deus Intus recommended agent pack
+# Install with:
+# ./scripts/install.sh --tool claude-code --agents-file deus-intus/agents.txt
+# or replace claude-code with codex, gemini-cli, openclaw, cursor, opencode, etc.
+
+deus-intus-brand-command
+deus-intus-content-command
+deus-intus-commerce-growth
+deus-intus-visual-production
+deus-intus-automation-ops
